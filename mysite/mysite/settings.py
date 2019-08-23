@@ -26,7 +26,7 @@ SECRET_KEY = 'v_myu&lucbde3*u8)rny@3m-od)uw@n4urx^_r5gaog0pzp9$z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['damp-atoll-90410.herokuapp.com']
 
 
 # Application definition
